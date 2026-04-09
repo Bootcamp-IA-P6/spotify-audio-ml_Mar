@@ -1,4 +1,4 @@
-# 🎵 Spotify Audio Classification - Data Engineering Project
+# 🎵 Spotify Audio Classification
 
 Este proyecto utiliza Machine Learning para clasificar canciones de Spotify basándose en sus características de audio.
 
